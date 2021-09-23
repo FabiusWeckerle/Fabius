@@ -1,13 +1,11 @@
 ------------------------------------------------------------------------
-Dies ist die README-Datei des Projekts. Hier sollten Sie Ihr Projekt
-beschreiben.
-Erzählen Sie dem Leser (jemand, der nichts über dieses Projekt weiss),
-alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar 
-zumindest die folgenden Angaben umfassen:
+Das ist ein hochintellektuelles Informatik projekt und ja nicht zu 
+unterschätzen. Das Downloaden zur Eigennutzung ist STRENGSTEN verboten
+und wid staatlich nachverfolgt!
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
+PROJEKTBEZEICHNUNG: Übung 01
+PROJEKTZWECK: Java lernen
 VERSION oder DATUM:
 WIE IST DAS PROJEKT ZU STARTEN:
 AUTOR(EN):
